@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashant-bartwal
-- 👀 I’m interested in IOS, JavaScript, Angular, Ionic
+- 👀 I’m interested in IOS, JavaScript, Angular, Ionic, Flutter
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on IOS
 - 📫 How to reach me deepashashant@gmail.com
